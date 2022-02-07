@@ -81,6 +81,7 @@ Apps that are built in devOS are:
 * Android Studio
 * TimeShift (backup tool)
 * VLC
+* Docker
 * [CMatrix](https://github.com/abishekvashok/cmatrix) (good old Matrix vibes)
 * [Neofetch](https://github.com/dylanaraps/neofetch)
 <br />
