@@ -12,7 +12,7 @@
   <h3 align="center">devOS: ubuntu but for programmers</h3>
 
   <p align="center">
-    ubuntu bootstrapped with all the goto apps and a pleasing look    
+    ubuntu bootstrapped with all the goto apps and an aesthetic look    
    </p>
      <a href="https://drive.google.com/file/d/1QOGcx5kS2INUhH4kGo8-XEeAPbpLydxd/view?usp=sharing">
      <img src="images/button.png" width="200" alt="download" />
