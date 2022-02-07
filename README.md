@@ -54,7 +54,7 @@
 
 </div>
   
-As mentioned it's not a distro built from scratch but an ubuntu image bundled with all the softwares necessary for any programmer (like vscode, chrome, node) excluding all the unnecessary prebuilt ubuntu apps . But the question is why did I make this distro?
+As mentioned it's not a distro built from scratch but an ubuntu image bundled with all the softwares necessary for any programmer (like vscode, chrome, node) excluding all the unnecessary prebuilt ubuntu apps . But the question is why did I make this distro (like seriously no one asked for it 😏)?
 
 Here's why:
 * I'm the type of person, if I get comfortable with a certain UI, a slight change in it makes me anxious.
