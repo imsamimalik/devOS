@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <br />
-<img src="images/screenshot.png" alt="screenshot" >
+<img src="screenshots/screenshot.png" alt="screenshot" >
 <div align="center">
 
   <sub ><i style="font-size: 13px;">THIS PROJECT WAS DONE SOLELY FOR THE PURPOSE OF SAVING SOME TIME SO THAT I CAN SLEEP FOR SOME EXTRA HOURS 😄 <br></i></sub>
@@ -81,6 +81,7 @@ Apps that are built in devOS are:
 * Android Studio
 * TimeShift (backup tool)
 * VLC
+* Spotify
 * [CMatrix](https://github.com/abishekvashok/cmatrix) (good old Matrix vibes)
 * [Neofetch](https://github.com/dylanaraps/neofetch)
 <br />
