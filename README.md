@@ -12,9 +12,9 @@
   <h3 align="center">devOS: ubuntu but for programmers</h3>
 
   <p align="center">
-    ubuntu bootstrapped with all the goto apps and an aesthetic look    
+    ubuntu bootstrapped with all the goto apps and a pleasing look    
    </p>
-     <a href="https://drive.google.com/uc?export=download&confirm=4gwL&id=1QOGcx5kS2INUhH4kGo8-XEeAPbpLydxd">
+     <a href="https://drive.google.com/file/d/1QOGcx5kS2INUhH4kGo8-XEeAPbpLydxd/view?usp=sharing">
      <img src="images/button.png" width="200" alt="download" />
      </a>
      <p align="center">
@@ -54,13 +54,13 @@
 
 </div>
   
-As mentioned it's not a distro built from scratch but an ubuntu image bundled with all the software applications necessary for any programmer (like vscode, chrome, node) excluding all the unnecessary prebuilt ubuntu apps . But the question is why did I make this distro (like seriously no one asked for it 😏)?
+As mentioned it's not a distro built from scratch but an ubuntu image bundled with all the softwares necessary for any programmer (like vscode, chrome, node) excluding all the unnecessary prebuilt ubuntu apps . But the question is why did I make this distro?
 
 Here's why:
 * I'm the type of person, if I get comfortable with a certain UI, a slight change in it makes me anxious.
 * I like to tickle with the ubuntu, and more often I mess up the UI to the extent that it's irreversible.
 * So, I've to boot a fresh ubuntu loosing all my apps and customizations. And it takes me hours to get that UI again.
-* Therefore, I recreated the UI I'm comfortable to, in the ubuntu ISO image (don't ask how much of a hectic process that was), so that I can just boot up the ISO to get all of my apps and customizations.
+* Therefore, I recreated the UI I'm comfortable to in the ubuntu iso image (don't ask how much of a hectic process that was), so that I can just boot up the iso to get all of my apps and customizations.
 
 There were some backup apps (like timeshift) but sometimes they also messed the core files of ubuntu.
 
@@ -71,17 +71,16 @@ Apps that are built in devOS are:
 
 * VS Code
 * Google Chrome
-* Firefox
+* Fifefox
 * NodeJS
 * GNOME Extensions and Tweaks
-  *    [Bluetooth Quick Connect](https://github.com/bjarosze/gnome-bluetooth-quick-connect)
+  *    [BlueTooth Quick Connect](https://github.com/bjarosze/gnome-bluetooth-quick-connect)
   *    [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator)
   *    [Improved Workspace Indicator](https://github.com/MichaelAquilina/improved-workspace-indicator)
   *    [Dash to Dock](https://micheleg.github.io/dash-to-dock/)
 * Android Studio
 * TimeShift (backup tool)
 * VLC
-* Docker
 * [CMatrix](https://github.com/abishekvashok/cmatrix) (good old Matrix vibes)
 * [Neofetch](https://github.com/dylanaraps/neofetch)
 <br />
@@ -89,7 +88,7 @@ Apps that are built in devOS are:
 <!-- THEMES -->
 ## Themes
 
-This gorgeous look has been made possible by the following themes: 
+This gorgeous look is made possible by following themes: 
   * GTK Theme: [Orchis Theme](https://github.com/vinceliuice/Orchis-theme)
   * Icon Theme: [Colloid Theme](https://github.com/vinceliuice/Colloid-gtk-theme/tree/main/icon-theme)
   * GNOME Shell Theme: [Orchis Theme](https://github.com/vinceliuice/Orchis-theme)
@@ -110,7 +109,7 @@ This gorgeous look has been made possible by the following themes:
 <!-- Installation -->
 
 ## Installation
-  Installation is pretty easy. Just burn this ISO into any USB and boot it like any other OS.
+  Installation is pretty easy. Just burn this iso into any USB and boot it like any other OS.
 
 <br />
 
