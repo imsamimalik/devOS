@@ -71,18 +71,19 @@ Apps that are built in devOS are:
 
 * VS Code
 * Google Chrome
-* Fifefox
+* Fifefox (excluded in Minimal Version)
 * NodeJS
 * GNOME Extensions and Tweaks
   *    [BlueTooth Quick Connect](https://github.com/bjarosze/gnome-bluetooth-quick-connect)
   *    [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator)
   *    [Improved Workspace Indicator](https://github.com/MichaelAquilina/improved-workspace-indicator)
   *    [Dash to Dock](https://micheleg.github.io/dash-to-dock/)
-* Android Studio
+* Android Studio (excluded in Minimal Version)
+* Docker
 * TimeShift (backup tool)
 * VLC
-* Spotify
-* Slack
+* Spotify (excluded in Minimal Version)
+* Slack (excluded in Minimal Version)
 * Vim
 * [CMatrix](https://github.com/abishekvashok/cmatrix) (good old Matrix vibes)
 * [Neofetch](https://github.com/dylanaraps/neofetch)
