@@ -14,7 +14,7 @@
   <p align="center">
     ubuntu bootstrapped with all the goto apps and a pleasing look    
    </p>
-     <a href="https://drive.google.com/uc?id=1JAICVQOVF516MNc-J_sQpgis1yCvj6lo&export=download&confirm=t&uuid=d11f1711-8b72-478d-83ba-1a0cb4f16361">
+     <a href="https://drive.google.com/uc?export=download&id=1JAICVQOVF516MNc-J_sQpgis1yCvj6lo&confirm=t&uuid=00a32b12-f94c-48d5-bf11-5cee0c68f68c&at=AKKF8vwPhwegot3dBvV8PSZxE_N1:1684012098147">
      <img src="images/button.png" width="200" alt="download" />
      </a>
      <p align="center">
